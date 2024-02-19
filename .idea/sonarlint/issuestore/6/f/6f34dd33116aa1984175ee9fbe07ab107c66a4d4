@@ -1,0 +1,31 @@
+
+E
+java:S1066f"/Merge this if statement with the enclosing one.(öö¼
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÔ¥ò
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿½ĞÀûÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Åğ¨şÿÿÿÿ
+h	java:S116""TRename this field "i_analyse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ£Ì
+r	java:S116$"XRename this field "i_echantillon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç±åÊşÿÿÿÿ
+n	java:S116&"TRename this field "i_rapport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‘¦úÿÿÿÿ
+i	java:S116("TRename this field "i_reactif" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–÷®œ
+u	java:S116*"[Rename this field "i_ReactifAnalyse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢«ıéÿÿÿÿÿ
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ
+œ
+java:S1130M"€Remove the declaration of thrown exception 'net.sf.jasperreports.engine.JRException', as it cannot be thrown from method's body.(¿½ĞÀûÿÿÿÿ
+‘
+java:S1130M"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(¿½ĞÀûÿÿÿÿ
+Œ
+java:S1130M"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¿½ĞÀûÿÿÿÿ
+m
+java:S1128"RRemove this unused import 'org.techlab.labxpert.service.serviceImp.ResultRepport'.(Ü¼¬Ïøÿÿÿÿ
