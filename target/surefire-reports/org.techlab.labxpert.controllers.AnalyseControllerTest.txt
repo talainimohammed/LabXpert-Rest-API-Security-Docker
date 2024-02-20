@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.AnalyseControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 41.965 s <<< FAILURE! - in org.techlab.labxpert.controllers.AnalyseControllerTest
+getanalyse  Time elapsed: 0.822 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.AnalyseControllerTest.getanalyse(AnalyseControllerTest.java:144)
+
+deleteAnalyse  Time elapsed: 0.139 s  <<< FAILURE!
+java.lang.AssertionError: Range for response status value 403 expected:<SUCCESSFUL> but was:<CLIENT_ERROR>
+	at org.techlab.labxpert.controllers.AnalyseControllerTest.deleteAnalyse(AnalyseControllerTest.java:176)
+
+getanalyses  Time elapsed: 0.047 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.AnalyseControllerTest.getanalyses(AnalyseControllerTest.java:131)
+
+updateAnalyse  Time elapsed: 0.646 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.AnalyseControllerTest.updateAnalyse(AnalyseControllerTest.java:163)
+

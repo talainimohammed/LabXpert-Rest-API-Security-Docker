@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.service.serviceImp.NumerationServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.075 s - in org.techlab.labxpert.service.serviceImp.NumerationServiceTest

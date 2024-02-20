@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.service.serviceImp.EchantillonServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.78 s - in org.techlab.labxpert.service.serviceImp.EchantillonServiceTest

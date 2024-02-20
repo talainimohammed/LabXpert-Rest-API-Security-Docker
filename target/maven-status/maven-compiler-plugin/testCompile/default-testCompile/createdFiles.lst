@@ -1,0 +1,15 @@
+org\techlab\labxpert\controllers\PatientControlersTest.class
+org\techlab\labxpert\service\serviceImp\PatientServiceTest.class
+org\techlab\labxpert\service\serviceImp\ReactifServiceTest.class
+org\techlab\labxpert\serviceImp\UtilisateurServiceTest.class
+org\techlab\labxpert\service\serviceImp\EchantillonServiceTest.class
+org\techlab\labxpert\service\serviceImp\NormeServiceTest.class
+org\techlab\labxpert\LabXpertApplicationTests.class
+org\techlab\labxpert\controllers\NormeControlersTest.class
+org\techlab\labxpert\service\serviceImp\NumerationServiceTest.class
+org\techlab\labxpert\controllers\EchantillonControllersTest.class
+org\techlab\labxpert\controllers\ReactifControllerTest.class
+org\techlab\labxpert\controllers\AnalyseControllerTest.class
+org\techlab\labxpert\controllers\NumerationControllerTest.class
+org\techlab\labxpert\controllers\UtilisateurControlersTest.class
+org\techlab\labxpert\service\serviceImp\AnalyseServiceTest.class

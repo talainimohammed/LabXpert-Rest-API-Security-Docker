@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.NormeControlersTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 6.757 s <<< FAILURE! - in org.techlab.labxpert.controllers.NormeControlersTest
+test_deleteNorme  Time elapsed: 0.022 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.NormeControlersTest.test_deleteNorme(NormeControlersTest.java:77)
+
+test_saveNorme  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.NormeControlersTest.test_saveNorme(NormeControlersTest.java:56)
+
+test_getNorme  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.NormeControlersTest.test_getNorme(NormeControlersTest.java:65)
+

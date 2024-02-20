@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.ReactifControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 3.31 s <<< FAILURE! - in org.techlab.labxpert.controllers.ReactifControllerTest
+allReactif  Time elapsed: 0.018 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.ReactifControllerTest.allReactif(ReactifControllerTest.java:71)
+
+addReactif  Time elapsed: 0.024 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.ReactifControllerTest.addReactif(ReactifControllerTest.java:89)
+
+showReactif  Time elapsed: 0.025 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.ReactifControllerTest.showReactif(ReactifControllerTest.java:79)
+
+delReactif  Time elapsed: 0.084 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.ReactifControllerTest.delReactif(ReactifControllerTest.java:108)
+
+modRactif  Time elapsed: 0.027 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.ReactifControllerTest.modRactif(ReactifControllerTest.java:99)
+

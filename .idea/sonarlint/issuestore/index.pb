@@ -21,3 +21,10 @@ v
 Fsrc/main/java/org/techlab/labxpert/filter/JWTAuthenticationFilter.java,5\b\5bb53f5776b0243f89be83e12463aa0add0fcd2f
 u
 Esrc/main/java/org/techlab/labxpert/filter/JWTAuthorizationFilter.java,0\2\02820655ed8f1cde99602a602174059e1335158b
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+]
+-src/main/resources/application-dev.properties,c\3\c37467157e01027b51d4a92acec42e9af665ad9b
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4

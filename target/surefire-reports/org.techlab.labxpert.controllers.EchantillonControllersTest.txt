@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.EchantillonControllersTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 14.432 s <<< FAILURE! - in org.techlab.labxpert.controllers.EchantillonControllersTest
+test_getEchantillonList  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.EchantillonControllersTest.test_getEchantillonList(EchantillonControllersTest.java:121)
+
+test_modEchantillon  Time elapsed: 0.549 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.EchantillonControllersTest.test_modEchantillon(EchantillonControllersTest.java:140)
+
+test_deleteEchantillon  Time elapsed: 0.324 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.EchantillonControllersTest.test_deleteEchantillon(EchantillonControllersTest.java:132)
+

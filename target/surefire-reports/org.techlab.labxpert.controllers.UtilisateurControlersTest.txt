@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.UtilisateurControlersTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.506 s <<< FAILURE! - in org.techlab.labxpert.controllers.UtilisateurControlersTest
+test_deleteContoller  Time elapsed: 0.025 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.UtilisateurControlersTest.test_deleteContoller(UtilisateurControlersTest.java:87)
+
+test_saveUtilisateur  Time elapsed: 0.019 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.UtilisateurControlersTest.test_saveUtilisateur(UtilisateurControlersTest.java:67)
+
+test_getControllertList  Time elapsed: 0.018 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.UtilisateurControlersTest.test_getControllertList(UtilisateurControlersTest.java:76)
+

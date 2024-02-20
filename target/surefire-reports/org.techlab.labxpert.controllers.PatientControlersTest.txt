@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.PatientControlersTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 4.724 s <<< FAILURE! - in org.techlab.labxpert.controllers.PatientControlersTest
+test_deleteContoller  Time elapsed: 0.03 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.PatientControlersTest.test_deleteContoller(PatientControlersTest.java:84)
+
+test_savePatient  Time elapsed: 0.02 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.PatientControlersTest.test_savePatient(PatientControlersTest.java:63)
+
+test_getControllertList  Time elapsed: 0.02 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.PatientControlersTest.test_getControllertList(PatientControlersTest.java:72)
+

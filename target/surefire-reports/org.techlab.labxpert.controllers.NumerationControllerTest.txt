@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: org.techlab.labxpert.controllers.NumerationControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 7.431 s <<< FAILURE! - in org.techlab.labxpert.controllers.NumerationControllerTest
+addNumeration  Time elapsed: 0.504 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<403>
+	at org.techlab.labxpert.controllers.NumerationControllerTest.addNumeration(NumerationControllerTest.java:142)
+
+modNumeration  Time elapsed: 0.143 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.NumerationControllerTest.modNumeration(NumerationControllerTest.java:152)
+
+showNumerationsWithAnalyse  Time elapsed: 0.128 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.NumerationControllerTest.showNumerationsWithAnalyse(NumerationControllerTest.java:133)
+
+deleteNumeration  Time elapsed: 0.26 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<403>
+	at org.techlab.labxpert.controllers.NumerationControllerTest.deleteNumeration(NumerationControllerTest.java:162)
+
+showNumerations  Time elapsed: 0.176 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<302>
+	at org.techlab.labxpert.controllers.NumerationControllerTest.showNumerations(NumerationControllerTest.java:123)
+

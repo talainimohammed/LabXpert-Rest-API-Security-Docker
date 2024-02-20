@@ -1,16 +1,16 @@
 
 r
 java:S1192G"\Define a constant instead of duplicating this literal "Access-Control-Allow-Origin" 3 times.(¡±á
-X
-java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
-X
-java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ
-g
-java:S3305#"RInject this field value directly into "filterChain", the only method that uses it.(Ü–u
+_
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Ò‘¼ˆÜ1
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8Ô‘¼ˆÜ1
+n
+java:S3305#"RInject this field value directly into "filterChain", the only method that uses it.(Ü–u8ã‘¼ˆÜ1
 V	java:S1257"<This block of commented-out lines of code should be removed.(Û·Ò¦ûÿÿÿÿ
-x
-java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ
-t
-java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ
-l
-java:S1128"QRemove this unused import 'org.springframework.web.cors.CorsConfigurationSource'.(ŒºÏøşÿÿÿÿ
+
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8Ğ”¼ˆÜ1
+{
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8Ò”¼ˆÜ1
+s
+java:S1128"QRemove this unused import 'org.springframework.web.cors.CorsConfigurationSource'.(ŒºÏøşÿÿÿÿ8Ô”¼ˆÜ1
